@@ -1,6 +1,6 @@
 <?php
     $user = "Hello";
-    echo "$user wordeoeo";
-    echo "conflict";
+
+    echo "$user world";
 
 ?>
