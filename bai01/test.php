@@ -1,4 +1,4 @@
 <?php
     $user = "Hello";
-    echo $user . " word";
+    echo "$user word";
 ?>
